@@ -8,12 +8,12 @@ export default function Hero() {
       {/* Background with overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=2070&auto=format&fit=crop"
-          alt="Laboratory"
-          className="w-full h-full object-cover opacity-40"
+          src="https://images.unsplash.com/photo-1532187875605-1ef1d016b403?q=80&w=2070&auto=format&fit=crop"
+          alt="Modern Laboratory"
+          className="w-full h-full object-cover opacity-30 grayscale hover:grayscale-0 transition-all duration-1000"
           referrerPolicy="no-referrer"
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-900/90 to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-slate-900 via-slate-900/80 to-transparent"></div>
       </div>
 
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full py-24">

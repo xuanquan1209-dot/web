@@ -12,10 +12,10 @@ export const SITE_CONTENT = {
     ]
   },
   hero: {
-    title: "Chuẩn xác trong đo lường",
-    subtitle: "Tin cậy trong dịch vụ",
-    description: "Văn phòng đại diện phía Nam là cánh tay nối dài của Viện Đo lường Việt Nam (VMI) tại khu vực trọng điểm kinh tế phía Nam. Chúng tôi mang sứ mệnh tăng cường, mở rộng và đưa các chuẩn đo lường quốc gia đến gần hơn với doanh nghiệp.",
-    cta: "Khám phá dịch vụ",
+    title: "We measure today",
+    subtitle: "for a sustainable tomorrow",
+    description: "Văn phòng đại diện phía Nam - Viện Đo lường Việt Nam. Đảm bảo tính chuẩn xác và tin cậy cao nhất cho hệ thống đo lường của bạn.",
+    cta: "Đăng ký hiệu chuẩn",
     secondaryCta: "Tra cứu chứng chỉ"
   },
   stats: [
