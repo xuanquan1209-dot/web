@@ -1,0 +1,8 @@
+{
+  "name": "Viện Đo lường Việt Nam - VP Phía Nam",
+  "description": "Website chính thức của Văn phòng đại diện phía Nam – Viện Đo lường Việt Nam (VMI). Cung cấp dịch vụ kiểm định, hiệu chuẩn, thử nghiệm và đào tạo chuyên sâu về đo lường.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
